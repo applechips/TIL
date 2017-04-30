@@ -1,6 +1,6 @@
 module.exports = {
   // tell webpack where our root component is:
-  entry: './app/components/Main.js',
+  entry: './app/App.js',
   // tell webpack where to put the new file after it's done combining everything into one file
   output: {
     filename: 'public/bundle.js',
